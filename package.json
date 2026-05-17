@@ -9,9 +9,7 @@
     "sublime-text"
   ],
   "license": "MIT",
-  "files": [
-    "themes/"
-  ],
+  "files": ["themes/", "LICENSE", "README.md"],
   "pi": {
     "themes": [
       "./themes"

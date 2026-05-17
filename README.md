@@ -21,3 +21,8 @@ Then select the `blackboard` theme in `/settings` or set:
   "theme": "blackboard"
 }
 ```
+
+## License
+
+`pi-blackboard-theme` is licensed under `MIT`. See [LICENSE](LICENSE)
+for more information.
