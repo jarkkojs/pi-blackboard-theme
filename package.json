@@ -1,6 +1,6 @@
 {
   "name": "pi-blackboard-theme",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Blackboard theme for Pi, based on the Sublime Text Blackboard color scheme.",
   "keywords": [
     "pi-package",
