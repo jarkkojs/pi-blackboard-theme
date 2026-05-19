@@ -80,7 +80,7 @@
     "thinkingHigh": "keyword",
     "thinkingXhigh": "keyword",
 
-    "bashMode": "string"
+    "bashMode": "white"
   },
   "export": {
     "pageBg": "background",
