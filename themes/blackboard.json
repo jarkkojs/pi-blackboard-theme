@@ -73,12 +73,12 @@
     "syntaxOperator": "foreground",
     "syntaxPunctuation": "tag",
 
-    "thinkingOff": "dim",
-    "thinkingMinimal": "tag",
-    "thinkingLow": "support",
+    "thinkingOff": "string",
+    "thinkingMinimal": "string",
+    "thinkingLow": "string",
     "thinkingMedium": "string",
-    "thinkingHigh": "keyword",
-    "thinkingXhigh": "entity",
+    "thinkingHigh": "string",
+    "thinkingXhigh": "string",
 
     "bashMode": "string"
   },
