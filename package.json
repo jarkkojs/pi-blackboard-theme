@@ -1,6 +1,6 @@
 {
   "name": "pi-blackboard-theme",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Blackboard theme for Pi, based on the Sublime Text Blackboard color scheme.",
   "keywords": [
     "pi-package",
@@ -18,7 +18,11 @@
     "url": "https://github.com/jarkkojs/pi-blackboard-theme/issues"
   },
   "homepage": "https://github.com/jarkkojs/pi-blackboard-theme#readme",
-  "files": ["themes/", "LICENSE", "README.md"],
+  "files": [
+    "themes/",
+    "LICENSE",
+    "README.md"
+  ],
   "pi": {
     "themes": [
       "./themes"
