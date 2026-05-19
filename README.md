@@ -2,6 +2,8 @@
 
 Blackboard theme for Pi, based on the Sublime Text Blackboard color scheme.
 
+![Blackboard theme screenshot](screenshot.png)
+
 ## Install
 
 ```bash
