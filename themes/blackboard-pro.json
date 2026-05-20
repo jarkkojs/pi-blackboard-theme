@@ -77,9 +77,9 @@
     "thinkingOff": "keyword",
     "thinkingMinimal": "keyword",
     "thinkingLow": "keyword",
-    "thinkingMedium": "blue",
-    "thinkingHigh": "entity",
-    "thinkingXhigh": "entity",
+    "thinkingMedium": "keyword",
+    "thinkingHigh": "keyword",
+    "thinkingXhigh": "keyword",
 
     "bashMode": "white"
   },
