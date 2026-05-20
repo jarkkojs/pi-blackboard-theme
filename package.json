@@ -1,12 +1,14 @@
 {
   "name": "pi-blackboard-theme",
-  "version": "0.1.6",
-  "description": "Blackboard theme for Pi, based on the Sublime Text Blackboard color scheme.",
+  "version": "0.2.0",
+  "description": "Blackboard and Blackboard Pro themes for Pi.",
   "keywords": [
     "pi-package",
     "pi-theme",
     "blackboard",
-    "sublime-text"
+    "blackboard-pro",
+    "sublime-text",
+    "dark-theme"
   ],
   "license": "MIT",
   "author": "Jarkko Sakkinen",

@@ -1,6 +1,6 @@
 # pi-blackboard-theme
 
-Blackboard theme for Pi, based on the Sublime Text Blackboard color scheme.
+Blackboard and Blackboard Pro themes for Pi.
 
 ![Blackboard theme screenshot](screenshot.png)
 
@@ -16,11 +16,11 @@ For local development:
 pi install /home/jarkko/work/staging/pi-blackboard-theme
 ```
 
-Then select the `blackboard` theme in `/settings` or set:
+Then select the `blackboard` or `blackboard-pro` theme in `/settings` or set:
 
 ```json
 {
-  "theme": "blackboard"
+  "theme": "blackboard-pro"
 }
 ```
 
